@@ -27,7 +27,7 @@ import config as cf
 import sys
 import controller
 assert cf
-
+ #esto es una prueba
 
 """
 La vista se encarga de la interacción con el usuario
