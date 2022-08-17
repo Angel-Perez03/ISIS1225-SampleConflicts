@@ -33,8 +33,8 @@ This repository is part of the data structure and algorithms (#EDA) teaching fra
 The students edit this section to add their names, Uniandes emails, and specify which project functionality of the project they will implement.
 
 1. Student No. 1 Angel Javier Peñaranda Pérez, a.penarandap@uniandes.edu.co, 202215646.
-1. Student No. 2 Daniel Enrique Fuentes Ensuncho, d.fuentese@uniandes.edu.co, 202210839.
-1. Student No. 3 Ingrid Vanessa Mora Sanchez, i.moras@uniandes.edu.co, 202012746.
+2. Student No. 2 Daniel Enrique Fuentes Ensuncho, d.fuentese@uniandes.edu.co, 202210839.
+3. Student No. 3 Ingrid Vanessa Mora Sanchez, i.moras@uniandes.edu.co, 202012746.
 
 [Back to top](#sample-conflicts)
 
